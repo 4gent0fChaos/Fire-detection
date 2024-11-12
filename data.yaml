@@ -1,0 +1,6 @@
+path: D-Fire/               # Root path to your dataset
+train: train/images         # Train images folder
+val: test/images            # Validation images folder (for testing while training)
+test: test/images           # Test images folder
+nc: 2                       # Number of classes
+names: ['smoke', 'fire']    # Class names
